@@ -15,4 +15,3 @@ Community strengths purposely left open:
 3) values and beliefs
 4)people place relationships
 
-Testing Github setup
