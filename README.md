@@ -14,3 +14,5 @@ Community strengths purposely left open:
 2) social networks
 3) values and beliefs
 4)people place relationships
+
+Testing Github setup
